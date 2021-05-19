@@ -1,4 +1,4 @@
-# nodivo-accueil-v2
+# landing-page-#2
 
 ## Build Setup
 
